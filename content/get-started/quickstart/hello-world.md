@@ -25,7 +25,7 @@ In this quickstart guide, you will:
 * Start and manage a new branch
 * Make changes to a file and push them to {% data variables.product.product_name %} as commits
 * Open and merge a pull request
-
+ 
 To complete this tutorial, you need a [{% data variables.product.product_name %} account](http://github.com) and Internet access. You don't need to know how to code, use the command line, or install Git (the version control software that {% data variables.product.product_name %} is built on).
 
 ## Creating a repository
@@ -42,8 +42,8 @@ Your `hello-world` repository can be a place where you store ideas, resources, o
 
    ![Create a hello world repository](/assets/images/help/repository/hello-world-repo.png)
 
-## Creating a branch
-
+# # Creating a branch
+  
 Branching lets you have different versions of a repository at one time.
 
 By default, your repository has one branch named `main` that is considered to be the definitive branch. You can use branches to experiment and make edits before committing them to `main`.
